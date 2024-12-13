@@ -1,6 +1,7 @@
 import Entity from '../../../src/core/Entity.js';
 import Attribute from '../../../src/core/Attribute.js';
 
+
 describe('Entity Class', () => {
     test('should create an entity with correct properties', () => {
         const entity = new Entity({

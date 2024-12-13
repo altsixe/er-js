@@ -4,23 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6c1347d-8a88-4dd5-a46a-00e40c91803b" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/src/core/Attribute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/Entity.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/Relationship.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/draw/ERRenderer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/modeling/ERFactory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/palette/PaletteProvider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/metamodel/Concept.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/metamodel/LogicalRelationshipMap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/metamodel/PhysicalRelationshipMap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/unit/core/test-attribute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/unit/core/test-entity.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e6c1347d-8a88-4dd5-a46a-00e40c91803b" name="Changes" comment="Adding Core">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/er-js.iml" beforeDir="false" afterPath="$PROJECT_DIR$/er-js.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jest.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/jest.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit/core/test-entity.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/unit/core/test-entity.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +27,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "altsixe"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/altsixe/er-js.git",
+    "accountId": "a0b5025c-dc6e-48a9-8c96-b51911642a18"
+  }
+}]]></component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
@@ -153,7 +154,7 @@
       <workItem from="1734001822350" duration="1193000" />
       <workItem from="1734012978978" duration="1511000" />
       <workItem from="1734023729510" duration="8081000" />
-      <workItem from="1734074055412" duration="4223000" />
+      <workItem from="1734074055412" duration="5120000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -163,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733997170030</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding Core">
+      <option name="closed" value="true" />
+      <created>1734084329377</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734084329377</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +180,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Adding Core" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Core" />
   </component>
 </project>
